@@ -3,6 +3,7 @@ Hi there, I'm Sheene Mandy A. Aya-ay _alias creocen_ 👋🎮
 🎓 Game Development student at [Your School]  
 🎮 Passionate about building games with **Unity & C#**   
 📫 Reach me at: creocen@gmail.com
+📃 [CV](https://drive.google.com/file/d/1Kx--REeeR5iRq1ExLaSuSie5nrY6UWXZ/view?usp=sharing)
 
 ---
 
