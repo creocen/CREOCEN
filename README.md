@@ -29,3 +29,7 @@ A unique tycoon game about running a hospital made up by professional medical ca
 [Dreamweaver]
 Finals for Game Programming 3 Theme: Never-Ending
 [Repo](https://github.com/cinnamintRoll/Dreamweavers_Game)
+
+[Rinig, Kita]
+Instructional and Advocacy Design to Improve Spatial Orientation and Mobility Skills of Visually Impaired Filipino Youth through a Stereo-Enhanced 2D Audio Game in an Interactive Demo
+
