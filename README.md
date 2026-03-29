@@ -19,7 +19,7 @@ _Note: Most of the projects are from my other github account_
 [I'm Just a Fish]
 I'm Just A Fish is a story-based game that gives a bit of a challenge to its players. You ever think about disturbing fish? Well, you shouldn't and this game is definitely why.
 You play as goldfish who's peace was disturbed by an annoying kid. Patience only gets you so far, so why not finally, strike back? 
-[Game]([https://teworcapt.itch.io/im-just-a-fish])
+[Game](https://teworcapt.itch.io/im-just-a-fish)
 
 [Hospital Cats]
 A unique tycoon game about running a hospital made up by professional medical cats!
